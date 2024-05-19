@@ -41,4 +41,12 @@ Android MyTask application developed with Java.To define and remind your duties.
    
 </table>
 
-![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg?color=00ADB5&style=for-the-badge)
+
+
+## 📱 Technologies / Tools used for building this app includes:
+| Android Studio |  Java | XML | Android  |
+| --- | --- | --- | --- |
+
+
+
+## 😀 If you liked the app, Please give it a ⭐ and fork the repository. 🤚🏻
