@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/etTitle"
+        android:layout_margin="8dp"
+        android:inputType="text"
+        android:textSize="20dp"
+        android:textAlignment="textStart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="عنوان .." />
+
+    <EditText
+        android:id="@+id/etDescription"
+        android:layout_margin="8dp"
+        android:textSize="20dp"
+        android:textAlignment="textStart"
+        android:inputType="text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="توضیح وظیفه" />
+
+</LinearLayout>
