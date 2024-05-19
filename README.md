@@ -1,4 +1,3 @@
-
 # Android-MyTask-App
 
 Android MyTask application developed with Java.To define and remind your duties. 
@@ -6,6 +5,11 @@ Android MyTask application developed with Java.To define and remind your duties.
 * Define and delete tasks
 * Add images in tasks  
 * edit Check tasks
+
+### Dependencies :
+* Recyclerview 
+* Material 
+* Gson
 
 
 ## Screenshots : 
@@ -37,3 +41,4 @@ Android MyTask application developed with Java.To define and remind your duties.
    
 </table>
 
+![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg?color=00ADB5&style=for-the-badge)
